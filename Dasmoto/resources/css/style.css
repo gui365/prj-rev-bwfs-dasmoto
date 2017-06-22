@@ -1,0 +1,33 @@
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+h2 {
+  font-size: 32px;
+    font-weight: bold;
+  color: white;
+}
+#bru {
+  background-color: mediumspringgreen;
+}
+
+#fra {
+  background-color: lightcoral;
+}
+
+#pai {
+  background-color: skyblue ;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(../pattern.jpeg);
+}
+
+.bluebold {
+  font-weight: bold;
+  color: blue;
+}
